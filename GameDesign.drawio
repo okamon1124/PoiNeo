@@ -1,0 +1,192 @@
+<mxfile host="Electron" pages="2">
+  <diagram name="遊戲場地" id="kbLB23K_8YQdy6fP2IM8">
+    <mxGraphModel dx="2475" dy="1447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_-UpYghORfiUbBa-XuCU-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="F" vertex="1">
+          <mxGeometry height="80" width="60" x="264" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="F" vertex="1">
+          <mxGeometry height="80" width="60" x="344" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="S" vertex="1">
+          <mxGeometry height="80" width="60" x="424" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="P" vertex="1">
+          <mxGeometry height="80" width="60" x="504" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="F" vertex="1">
+          <mxGeometry height="80" width="60" x="264" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="F" vertex="1">
+          <mxGeometry height="80" width="60" x="344" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="F" vertex="1">
+          <mxGeometry height="80" width="60" x="424" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="F" vertex="1">
+          <mxGeometry height="80" width="60" x="504" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="P" vertex="1">
+          <mxGeometry height="80" width="60" x="264" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="VS" vertex="1">
+          <mxGeometry height="80" width="140" x="344" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="P" vertex="1">
+          <mxGeometry height="80" width="60" x="504" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="F" vertex="1">
+          <mxGeometry height="80" width="60" x="264" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="F" vertex="1">
+          <mxGeometry height="80" width="60" x="344" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="F" vertex="1">
+          <mxGeometry height="80" width="60" x="424" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="F" vertex="1">
+          <mxGeometry height="80" width="60" x="504" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="P" vertex="1">
+          <mxGeometry height="80" width="60" x="264" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="S" vertex="1">
+          <mxGeometry height="80" width="60" x="344" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="F" vertex="1">
+          <mxGeometry height="80" width="60" x="424" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="F" vertex="1">
+          <mxGeometry height="80" width="60" x="504" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-28" edge="1" parent="1" source="_-UpYghORfiUbBa-XuCU-4" style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="_-UpYghORfiUbBa-XuCU-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="414" y="530" as="sourcePoint" />
+            <mxPoint x="434" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-31" edge="1" parent="1" source="_-UpYghORfiUbBa-XuCU-15" style="endArrow=classic;html=1;rounded=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="544" y="390" as="sourcePoint" />
+            <mxPoint x="484" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-35" edge="1" parent="1" source="_-UpYghORfiUbBa-XuCU-22" style="endArrow=classic;html=1;rounded=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="_-UpYghORfiUbBa-XuCU-21" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="434" y="130" as="sourcePoint" />
+            <mxPoint x="414" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-38" edge="1" parent="1" source="_-UpYghORfiUbBa-XuCU-11" style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="_-UpYghORfiUbBa-XuCU-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="304" y="270" as="sourcePoint" />
+            <mxPoint x="304" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="P" vertex="1">
+          <mxGeometry height="80" width="60" x="584" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="P" vertex="1">
+          <mxGeometry height="80" width="60" x="584" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="P" vertex="1">
+          <mxGeometry height="80" width="60" x="584" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="P" vertex="1">
+          <mxGeometry height="80" width="60" x="184" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="P" vertex="1">
+          <mxGeometry height="80" width="60" x="184" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="P" vertex="1">
+          <mxGeometry height="80" width="60" x="184" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="F" vertex="1">
+          <mxGeometry height="80" width="60" x="184" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="F" vertex="1">
+          <mxGeometry height="80" width="60" x="184" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="F" vertex="1">
+          <mxGeometry height="80" width="60" x="584" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;" value="F" vertex="1">
+          <mxGeometry height="80" width="60" x="584" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-54" edge="1" parent="1" source="_-UpYghORfiUbBa-XuCU-5" style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="_-UpYghORfiUbBa-XuCU-41" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="494" y="530" as="sourcePoint" />
+            <mxPoint x="514" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-55" edge="1" parent="1" source="_-UpYghORfiUbBa-XuCU-41" style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="_-UpYghORfiUbBa-XuCU-42" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="574" y="530" as="sourcePoint" />
+            <mxPoint x="594" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-56" edge="1" parent="1" source="_-UpYghORfiUbBa-XuCU-42" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" target="_-UpYghORfiUbBa-XuCU-43" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="631" y="620" as="sourcePoint" />
+            <mxPoint x="681" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-57" edge="1" parent="1" source="_-UpYghORfiUbBa-XuCU-43" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" target="_-UpYghORfiUbBa-XuCU-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="631" y="620" as="sourcePoint" />
+            <mxPoint x="681" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-59" edge="1" parent="1" source="_-UpYghORfiUbBa-XuCU-46" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="_-UpYghORfiUbBa-XuCU-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="631" y="620" as="sourcePoint" />
+            <mxPoint x="681" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-60" edge="1" parent="1" source="_-UpYghORfiUbBa-XuCU-45" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="_-UpYghORfiUbBa-XuCU-46" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="631" y="620" as="sourcePoint" />
+            <mxPoint x="681" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-61" edge="1" parent="1" source="_-UpYghORfiUbBa-XuCU-44" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="_-UpYghORfiUbBa-XuCU-45" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="631" y="620" as="sourcePoint" />
+            <mxPoint x="681" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-62" edge="1" parent="1" source="_-UpYghORfiUbBa-XuCU-21" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="_-UpYghORfiUbBa-XuCU-44" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="111" y="210" as="sourcePoint" />
+            <mxPoint x="91" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_-UpYghORfiUbBa-XuCU-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;遊戲場地&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="153" x="337.5" y="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_ICwDM0xewPoI_bbSUJI" name="規則介紹">
+    <mxGraphModel dx="2054" dy="1201" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FNg-15IbeDGRwh9bsGqL-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;規則簡介&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="520" x="160" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ube_FrqpZm_Xd2WD06om-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="這是一款回合制Rogue-Like 的卡牌遊戲。玩家需要巧妙運用自己擁有的牌一一擊敗眼前的敵人。&lt;div&gt;遇見敵人會進入戰鬥，並開啟回合制的卡牌遊戲。「遊戲場地」頁就是描述該遊戲的場地架構。&lt;/div&gt;&lt;div&gt;玩家的回合分成:&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;「抽牌階段」，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;「行動階段」，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;「移動階段」及&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;「戰鬥階段」&lt;/span&gt;&lt;/div&gt;&lt;div&gt;「抽牌階段」: (自動執行) 玩家從牌組抽一張牌至手牌。&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;「行動階段」: (玩家執行) 玩家消耗能量，將手牌中的牌放置到 S 格上。&lt;/div&gt;&lt;div&gt;「移動階段」: (自動執行) 場上的卡牌依各自的移速沿箭頭前進。&lt;/div&gt;&lt;div&gt;「戰鬥階段」: (自動執行) 在VS-Zone(戰鬥格)上的生物進行戰鬥，分別扣除對方生命，扣除傷害等同於自身力量。若對方無生物在VS-zone，則扣除對方玩家(or 敵方)的生命值。&lt;/div&gt;&lt;div&gt;玩家回合結束則換敵方回合，敵方並不會進入抽牌階段，且敵方並無手牌的概念。直接進入&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;「行動階段」，並將腳本預設的牌放置到戰場上，若無法完成動作，則取消該行動。敵人的行動按照腳本執行，但根據設定會隨機挑選行動方式。隨後的移動與戰鬥與玩家一樣是自動執行，結束後再回到玩家的回合。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;玩家勝利條件: 敵方血量歸零。敗北條件:玩家血量歸零或是牌組無卡片可以抽。&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="520" x="160" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FcY_rTCOd7bzMqceRz-Y-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;&lt;b&gt;一、放牌與能量&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. 玩家每回合能量上限固定 3 點，回合開始時補滿，用不完不保留。每張牌有自己的能量費用。&lt;/div&gt;&lt;div&gt;2. 牌只能放在 S 格。同一格可以疊放多張牌，玩家可以在行動階段調整疊的順序。&lt;/div&gt;&lt;div&gt;3. 敵方不使用能量，照腳本每回合放置指定的牌。若腳本的行動無法完成則取消該行動，並顯示提示給玩家（開發時需記錄取消原因）。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;二、移動&lt;/b&gt;&lt;/div&gt;&lt;div&gt;4. 放到 S 的牌，當回合的移動階段就會前進。&lt;/div&gt;&lt;div&gt;5. 移速有 1、2、3 三種（S 到 VS 共 6 步，分別需要 6、3、2 回合）。移速 6 保留，目前不使用。&lt;/div&gt;&lt;div&gt;6. 疊在一起的牌依各自的移速移動。有「從屬」屬性的 token 會跟著召喚它的怪移動；召喚者死亡時，其 token 一起消失。&lt;/div&gt;&lt;div&gt;7. 先計算所有地形與 buff / debuff，再用最後的移速移動。移速最低為 0（停在原地），不會往回走。移速超過剩餘格數時，走到 VS 就停。&lt;/div&gt;&lt;div&gt;8. 碰到障礙物時：停在障礙物前一格，照疊的順序依序攻擊障礙物，障礙物只反擊第一隻攻擊者。障礙物被破壞後即移除，但這回合剩餘的步數歸零，下回合才繼續前進。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;三、地形與障礙物&lt;/b&gt;&lt;/div&gt;&lt;div&gt;9. 地形可以是地圖自帶在 P 格上，也可以由卡牌製造。&lt;/div&gt;&lt;div&gt;10. 每種地形效果用兩個設定描述：&lt;/div&gt;&lt;div&gt;&amp;nbsp; ・觸發時機：「走進去時」（中間格 + 最後停下的格）或「離開時」（出發格 + 中間格）&lt;/div&gt;&lt;div&gt;&amp;nbsp; ・可否累加：「每格各算一次」或「一回合最多一次」&lt;/div&gt;&lt;div&gt;&amp;nbsp; 劣勢地形：離開時觸發，移速 -1，一回合最多一次。&lt;/div&gt;&lt;div&gt;&amp;nbsp; 尖刺陷阱：走進去時觸發，生命 -1，每格各算一次。&lt;/div&gt;&lt;div&gt;&amp;nbsp; （數值目前都是 1，之後可能有例外）&lt;/div&gt;&lt;div&gt;11. 障礙物有力量與生命（力量大多為 0），不會移動、不會主動攻擊，但會反擊。只能放在 P 格。&lt;/div&gt;&lt;div&gt;12. 卡牌製造的地形與障礙物，可以放在雙方路線的任何 P 格。持續時間由卡牌寫明，沒寫則持續到戰鬥結束。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;四、戰鬥&lt;/b&gt;&lt;/div&gt;&lt;div&gt;13. 我方在下方，敵方在上方。疊的「最前面」：我方為最左邊，敵方為最右邊（鏡像）。&lt;/div&gt;&lt;div&gt;14. 每隻怪有力量與生命。輪到誰的回合，就由誰在 VS 的生物攻擊，對方只反擊。&lt;/div&gt;&lt;div&gt;15. 攻擊方照疊的順序，最前面的先出手。每次攻擊都打對方最前面那張，打死了換下一張；對方 VS 沒有生物時，剩下的攻擊打敵方玩家。&lt;/div&gt;&lt;div&gt;16. 被攻擊的生物只反擊第一隻攻擊它的生物。&lt;/div&gt;&lt;div&gt;17. 新進入 VS 的生物排在該方的最後面。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;五、能力範例&lt;/b&gt;&lt;/div&gt;&lt;div&gt;18. 戰鬥狂熱：每打倒一個單位，自身 +1/+1。打掉障礙物、打掉 token、用反擊打死對方都算；被陷阱扣死不算。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;六、刻意延後&lt;/b&gt;&lt;/div&gt;&lt;div&gt;・疊牌順序的 UI&lt;/div&gt;&lt;div&gt;・F 格（free zone）第一版不使用，之後擴充方向偏向「建築」&lt;/div&gt;" vertex="1">
+          <mxGeometry height="900" width="520" x="160" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="FcY_rTCOd7bzMqceRz-Y-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;詳細規則&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="520" x="160" y="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
