@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PoiNeo.Cli/PoiNeo.Cli.csproj" />
+    <Project Path="src/PoiNeo.Core/PoiNeo.Core.csproj" />
+  </Folder>
+</Solution>
